@@ -1,0 +1,1 @@
+/Users/yuzebin/Documents/vego/docshare/trainning.md
