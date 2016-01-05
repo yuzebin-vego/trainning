@@ -2,7 +2,7 @@
 * 2015.11.06 [辉辉] [FIN] [API接口架构]
 * 2015.11.09 [前端] [FIN] [播放器知识共享]
 * 2015.11.10 [后端] [FIN] [服务器安全]
-* 2015.11.18 [士华] [FIN] [转换思维]
+* 2015.11.18 [士华](https://github.com/mashihua) [FIN] [转换技术思维]
 * 2015.11.19 [志文] [FIN] [视频业务与CMS系统]
 * 2015.11.xx [曹雷] [FIN] [AppleTV开发]
 * 2015.11.25 [俊峰] [FIN] [dubbo的那些坑/程序异常处理]
@@ -10,7 +10,7 @@
 * 2015.12.01 [佳毅] [FIN] [dash+drm]
 * 2015.12.03 [志刚] [FIN] [从HTTP协议说起]
 * 2015.12.08 [国峰] [FIN] [AppleWatch的设计与开发]
-* 2015.12.15 [学文] [FIN] [兔小贝使用的Truth框架]
+* 2015.12.15 [学文](https://github.com/louis-tru) [FIN] [兔小贝使用的Truth框架]
 * 2015.12.16 [唐华] [FIN] [流媒体知识]
 * 2015.12.17 [张魁] [FIN] [docker /ˈdɒkə(r)/ 入门与应用场景]
 * 2015.12.22 [付强] [FIN] [Android overdraw 优化 + Git经验交流]
@@ -40,7 +40,7 @@
 * 2016.03.08 [姚东]
 
 
-### 待选主题
+## 待选主题
  * 后端开发环境的演变：ssh->puppet/ansible/salt->vagrant->docker->dokku/heroku
  * 日志收集方案对比：tail->syslog/rsyslog/syslog-ng->fluntd->flume
  * 研发文档的写作，关于科学写作的皮毛：doc/pdf/md/latex/ipython-notes
@@ -49,4 +49,10 @@
  * MongoDB的性能优化
  * React/React-Native入门
 
-### Vego Github List
+## Vego Github List
+ * [kuangkuang](https://github.com/eric183)
+ * [shihua](https://github.com/mashihua)
+ * [xuewen](https://github.com/louis-tru)
+ * [xueyong](https://github.com/yong)
+ * [zebin](https://github.com/yuzebin)
+
